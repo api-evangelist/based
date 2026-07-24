@@ -1,0 +1,11 @@
+{
+  "repo": "based",
+  "feeds": [
+    {
+      "source": "https://basedapp.gitbook.io/docs/guides-and-faq/faqs",
+      "error": "HTTPError"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-07-20T13:31:34Z"
+}
